@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "dnode": ">=1.2.2",
-    "shoe": "~0.0.15",
+    "shoe": "grdryn/shoe#45429420fe",
     "win-spawn": "~2.0.0",
     "traverse": "~0.6.3"
   },
